@@ -8,7 +8,7 @@ exports.getRapidApidetails = async (req, res) => {
         url: 'https://ott-details.p.rapidapi.com/advancedsearch',
 
         headers: {
-            'X-RapidAPI-Key': '92856ad465mshdf45ccef91486bap1ccf0fjsn5341a376b04f',
+            'X-RapidAPI-Key': 'YOUR_API_KEY',
             'X-RapidAPI-Host': 'ott-details.p.rapidapi.com',
         },
     };
